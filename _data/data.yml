@@ -8,15 +8,13 @@ sidebar:
 
     # Profile information
     name: Reto Heller
-    tagline: Full Stack Developer
+    tagline: Data Science Master Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: retojanheller@gmail.com
+    linkedin: Reto Heller
+    github: RetoHe
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -24,25 +22,28 @@ sidebar:
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: German
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French
+        level: Basic
         
     interests:
-      - item: Climbing
+      - item: Running
         link:
 
-      - item: Snowboarding
+      - item: Hiking
         link:
 
-      - item: Cooking
+      - item: Cross-Country Skiing
         link:
 
+      - item: Reading
+        link:
+        
 career-profile:
     title: Career Profile
     summary: |
@@ -55,9 +56,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Data Science and Intelligent Analytics
+      university: FH Kufstein/Tyrol
+      time: 2019 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +69,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BA in European Energy Business
+      university: FH Kufstein/Tyrol
+      time: 2014 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -177,20 +178,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R
         level: 98%
 
-      - name: Angular
+      - name: AWS
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Machine Learning (Sklearn/TensorFlow/Pytorch)
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Energy Business
+        level: 99%
 
       - name: Sketch & Photoshop
         level: 60%
