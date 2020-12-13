@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -104,7 +104,6 @@ certifications:
 
     assignments:
       - title: AWS Certfified Data Analytics - Specialty
-        link: "#hook"
         date: 2020-11-03
 
 #publications:
