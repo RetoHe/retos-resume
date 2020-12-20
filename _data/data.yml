@@ -76,7 +76,20 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
+          
+    - degree: International Business | Semester abroad
+      university: Taylor's University Kuala Lumpur
+      time: 2016
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point        
 
 experiences:
     - role: Energy Logistics Manager
@@ -121,19 +134,19 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        level: 99%
 
-      - name: R
-        level: 80%
-
-      - name: AWS
-        level: 98%
+      - name: Energy Business
+        level: 99%
 
       - name: Machine Learning (Sklearn/TensorFlow/Pytorch)
         level: 95%
 
-      - name: Energy Business
-        level: 99%
+      - name: AWS
+        level: 90%
+
+      - name: R
+        level: 80%
 
       - name: Databases (MongoDB, SQL, GraphQL)
         level: 70%
