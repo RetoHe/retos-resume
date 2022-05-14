@@ -56,7 +56,7 @@ education:
     - degree: MSc in Data Science and Intelligent Analytics
       university: FH Kufstein/Tyrol
       time: 2019 - 2021
-      grade: graduated with distinction
+      grade: Graduated with distinction
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,7 +70,7 @@ education:
     - degree: BA in European Energy Business
       university: FH Kufstein/Tyrol
       time: 2014 - 2017
-      grade: graduated with good success
+      grade: Graduated with good success
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
