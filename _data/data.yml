@@ -101,8 +101,24 @@ education:
 
 experiences:
 
+    - role: Product Owner
+      time: 2023 -present
+      company: Enspired Trading, Vienna
+      details:
+        I am a product owner for asset-backed trading strategies.
+        
+           - Responsible for the improvement of the trading algorithms for wind and solar production and flexible production assets
+           
+           - Managing product
+           
+           - Creating product roadmap in cooperation with Sales and Business Development team
+           
+           - Writing user stories and close cooperation with the Software Development team
+           
+           - Figuring out customer needs and market requirements
+           
     - role: Augmented Trading Expert
-      time: 2022 -present
+      time: 2022 - 2023
       company: Enspired Trading, Vienna
       details:
         I am working in the augmented trading community at enspired.
@@ -166,13 +182,13 @@ skills:
       - name: Energy Business
         level: 100%
 
-      - name: Python
+      - name: Product Management
         level: 99%
 
       - name: Machine Learning (Sklearn/TensorFlow/Pytorch)
         level: 95%
         
-      - name: Product Management
+      - name: Python
         level: 90%
 
       - name: AWS
