@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: retojanheller@gmail.com
     linkedin: Reto Heller
-    github: RetoHe
-    gitlab:
-    bitbucket:
-    twitter: '@retolino_'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    #github: RetoHe
+    #gitlab:
+    #bitbucket:
+    #twitter: '@retolino_'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
 
     languages:
       - idiom: German
@@ -28,6 +28,9 @@ sidebar:
       - idiom: English
         level: Professional
 
+      - idiom: Arabic
+        level: Basic
+        
       - idiom: French
         level: Basic
         
@@ -47,10 +50,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have 5 years of experience working in the energy trading business. Currently, I am working in the Augmented Trading Community at enspired in Vienna.
+      I have 6 years of experience working in the european energy trading business. Currently, I am working in the Augmented Trading Community at enspired in Vienna.
       Since my studies I have always been very passionate about the energy trading business, especially about the short-term trading markets.
-      Because of working with large amounts of data in fast-paced markets, my interests in data science and machine learning grew.
+      Because of working with large amounts of data in fast-paced markets, my interests in data science and machine learning grew and I finished a part-time masters degree in Data Science.
+      I am very interested in contributing to a sustainable and reliable energy supply in Europe.
       Outside of work, I am doing a lot of sports. Previously I have played football in Austria and Germany. Now I am spending a lot of time in the nature. Running, hiking in the mountains, cross-country skiing in the winter-months and I'm still interested in trying out new activities.
+      Travelling and exploring new countries and cultures are my passion.
 
 education:
     - degree: MSc in Data Science and Intelligent Analytics
@@ -106,7 +111,9 @@ experiences:
            
            - Trading in different european markets (Germany, UK, Austria, Nordics, France)
            
-           - Create trading algorithms for different assets (renewables, batteries, pumped storage)
+           - Create trading algorithms for different flexibles assets (renewables, batteries, CHPs)
+           
+           - Optimizing asset-backed trading strategies
            
            - Researching trading signals for prop trading strategies
            
@@ -116,13 +123,13 @@ experiences:
       time: 2017 - 2022
       company: Syneco Trading, Munich
       details:
-        I am working in the energy logistics department and I am involved in different projetcs.
+        I am working in the energy logistics department and I am involved in different projetcs. I get a broad overview of many different processes around the european energy trading business.
         
            - Customer oriented Service-provider
            
            - Implementing new processes and systems
            
-           - Optimizing Intraday Trading
+           - Optimizing and automating the Intraday Trading
            
            - Forecasting Power and Gas Demand
            
@@ -153,14 +160,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 99%
-
       - name: Energy Business
+        level: 100%
+
+      - name: Python
         level: 99%
 
       - name: Machine Learning (Sklearn/TensorFlow/Pytorch)
         level: 95%
+        
+      - name: Product Management
+        level: 90%
 
       - name: AWS
         level: 90%
@@ -168,8 +178,6 @@ skills:
       - name: Golang
         level: 80%
 
-      - name: R
-        level: 80%
 
       - name: Databases (MongoDB, SQL, GraphQL)
         level: 70%
