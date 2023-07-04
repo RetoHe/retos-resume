@@ -41,7 +41,7 @@ sidebar:
       - item: Hiking
         link:
 
-      - item: Cross-Country Skiing
+      - item: Travelling
         link:
 
       - item: Reading
@@ -50,12 +50,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have 6 years of experience working in the european energy trading business. Currently, I am working in the Augmented Trading Community at enspired in Vienna.
+      I have 6 years of experience working in the european energy trading business.
       Since my studies I have always been very passionate about the energy trading business, especially about the short-term trading markets.
       Because of working with large amounts of data in fast-paced markets, my interests in data science and machine learning grew and I finished a part-time masters degree in Data Science.
       I am very interested in contributing to a sustainable and reliable energy supply in Europe.
       Outside of work, I am doing a lot of sports. Previously I have played football in Austria and Germany. Now I am spending a lot of time in the nature. Running, hiking in the mountains, cross-country skiing in the winter-months and I'm still interested in trying out new activities.
-      Travelling and exploring new countries and cultures are my passion.
+      Travelling and exploring new countries and cultures are also my passion.
 
 education:
     - degree: MSc in Data Science and Intelligent Analytics
@@ -101,29 +101,29 @@ education:
 
 experiences:
 
-    - role: Product Owner
-      time: 2023 -present
-      company: Enspired Trading, Vienna
-      details:
-        I am a product owner for asset-backed trading strategies.
+##    - role: Product Owner
+  ##    time: 2023 -present
+    ##  company: Enspired Trading, Vienna
+     ## details:
+        #I am a product owner for asset-backed trading strategies.
         
-           - Responsible for the improvement of the trading algorithms for wind and solar production and flexible production assets
+         #  - Responsible for the improvement of the trading algorithms for wind and solar production and flexible production assets
            
-           - Managing product
+          # - Managing product
            
-           - Creating product roadmap in cooperation with Sales and Business Development team
+           #- Creating product roadmap in cooperation with Sales and Business Development team
            
-           - Writing user stories and close cooperation with the Software Development team
+           #- Writing user stories and close cooperation with the Software Development team
            
-           - Figuring out customer needs and market requirements
+           #- Figuring out customer needs and market requirements
            
     - role: Augmented Trading Expert
-      time: 2022 - 2023
+      time: 2022 - present
       company: Enspired Trading, Vienna
       details:
-        I am working in the augmented trading community at enspired.
+        I am developing and improving trading algorithms for the european intrayday power markets.
         
-           - Implementing trading strategies for the intraday power market
+           - Implementing trading strategies for the intraday power markets
            
            - Trading in different european markets (Germany, UK, Austria, Nordics, France)
            
@@ -182,17 +182,17 @@ skills:
       - name: Energy Business
         level: 100%
 
-      - name: Product Management
+      - name: Analytical Thinking
         level: 99%
 
-      - name: Machine Learning (Sklearn/TensorFlow/Pytorch)
+      - name: Python (Pandas/Numpy)
         level: 95%
-        
-      - name: Python
+
+      - name: Machine Learning (Sklearn/TensorFlow/Pytorch)
         level: 90%
 
       - name: AWS
-        level: 90%
+        level: 85%
         
       - name: Golang
         level: 80%
