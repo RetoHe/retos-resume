@@ -1,0 +1,207 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Reto Heller
+    tagline: Augmented Trading Expert
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: retojanheller@gmail.com
+    linkedin: Reto Heller
+    #github: RetoHe
+    #gitlab:
+    #bitbucket:
+    #twitter: '@retolino_'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+
+    languages:
+      - idiom: German
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: Arabic
+        level: Basic
+        
+      - idiom: French
+        level: Basic
+        
+    interests:
+      - item: Running
+        link:
+
+      - item: Hiking
+        link:
+
+      - item: Cross-Country Skiing
+        link:
+
+      - item: Travelling
+        link:
+        
+career-profile:
+    title: Career Profile
+    summary: |
+      I have 6 years of experience working in the european energy trading business. Currently, I am working in the Augmented Trading Community at enspired in Vienna.
+      Since my studies I have always been very passionate about the energy trading business, especially about the short-term trading markets.
+      Because of working with large amounts of data in fast-paced markets, my interests in data science and machine learning grew and I finished a part-time masters degree in Data Science.
+      I am very interested in contributing to a sustainable and reliable energy supply in Europe.
+      Outside of work, I am doing a lot of sports. Previously I have played football in Austria and Germany. Now I am spending a lot of time in the nature. Running, hiking in the mountains, cross-country skiing in the winter-months and I'm still interested in trying out new activities.
+      Travelling and exploring new countries and cultures are my passion.
+
+education:
+    - degree: MSc in Data Science and Intelligent Analytics
+      university: FH Kufstein/Tyrol
+      time: 2019 - 2021
+      grade: Graduated with distinction
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point 
+
+    - degree: BA in European Energy Business
+      university: FH Kufstein/Tyrol
+      time: 2014 - 2017
+      grade: Graduated with good success
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+          
+    - degree: International Business | Semester abroad
+      university: Taylor's University Kuala Lumpur
+      time: 2016
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point        
+
+experiences:
+
+    - role: Product Owner
+      time: 2023/06 -present
+      company: Enspired Trading, Vienna
+      details:
+        I am a product owner for asset-backed trading strategies.
+        
+           - Responsible for the improvement of the trading algorithms for renewable production position closing and optimisation of flexible production assets
+           
+           - Managing product backlog
+           
+           - Creating product roadmap in cooperation with Sales and Business Development team
+           
+           - Writing user stories and close cooperation with the Software Development team
+           
+           - Figuring out customer needs and market requirements
+           
+    - role: Augmented Trading Expert
+      time: 2022 - 2023/06
+      company: Enspired Trading, Vienna
+      details:
+        I am working in the augmented trading community at enspired.
+        
+           - Implementing trading strategies for the intraday power market
+           
+           - Trading in different european markets (Germany, UK, Austria, Netherlands, France)
+           
+           - Create trading algorithms for different flexibles assets (renewables, batteries, CHPs)
+           
+           - Optimizing asset-backed trading strategies
+           
+           - Researching trading signals for prop trading strategies
+           
+           - Managing machine learning projects
+
+    - role: Energy Logistics Manager
+      time: 2017 - 2022
+      company: Syneco Trading, Munich
+      details:
+        I am working in the energy logistics department and I am involved in different projetcs. I get a broad overview of many different processes around the european energy trading business.
+        
+           - Customer oriented Service-provider
+           
+           - Implementing new processes and systems
+           
+           - Optimizing and automating the Intraday Trading
+           
+           - Forecasting Power and Gas Demand
+           
+           - Scheduling/Dispatching Power and Gas
+
+publications:
+    title: Certifications
+    intro: >
+      Here you can find my different certifications
+
+    papers:
+      - title: AWS Certfified Data Analytics - Specialty
+        authors: 2020-11-03
+        
+      - title: EPEX Trader Certification
+        authors: 2022-03-10
+
+      - title: Professional Scrum Product Owner
+        authors: 2023-10-13
+
+#publications:
+    #title: Publications
+    #intro: |
+      #You can list your publications in this section. Lorem ipsum dolor sit
+      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      #bibendum fringilla a eu lectus.
+
+    #papers:
+      #- title: The Art of Computer Programming
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Energy Business
+        level: 100%
+
+      - name: Python
+        level: 99%
+
+      - name: Machine Learning (Sklearn/TensorFlow)
+        level: 95%
+        
+      - name: Product Management
+        level: 90%
+
+      - name: AWS
+        level: 80%
+        
+      - name: Golang
+        level: 80%
+
+      - name: Databases (MongoDB, SQL)
+        level: 70%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
