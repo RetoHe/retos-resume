@@ -193,14 +193,11 @@ skills:
         
       - name: Product Management
         level: 90%
-
-      - name: AWS
-        level: 80%
         
       - name: Golang
         level: 80%
 
-      - name: Databases (MongoDB, SQL)
+      - name: Databases (MongoDB, SQL) & AWS Cloud Infrastructure
         level: 70%
 
 footer: >
